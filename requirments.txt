@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+scikit-learn
+google-generativeai
+pickle5
+gunicorn
